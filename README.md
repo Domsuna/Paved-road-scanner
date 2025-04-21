@@ -2,7 +2,7 @@
 An AI-based project to detect road surface defects from images.
 
 ## Technologies
-- Python, TensorFlow, YOLOv5
+- Python, Google Colab, TensorFlow, YOLOv5
 - LINE Messaging API
 - Docker, Heroku
 
